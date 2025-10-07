@@ -1,0 +1,134 @@
+{
+  "navbar": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "get_started": "Get Started"
+  },
+  "hero": {
+    "title": "Build & Launch Your SaaS Faster Than Ever",
+    "subtitle": "LaunchPad Pro is a premium, bilingual, and fully responsive landing page template designed to convert visitors into customers.",
+    "cta_main": "Get Started",
+    "cta_secondary": "Watch Demo"
+  },
+  "features": {
+    "title": "Everything You Need to Launch with Confidence",
+    "subtitle": "We've included powerful features to help you turn visitors into loyal customers.",
+    "bilingual_title": "Bilingual Support (RTL/LTR)",
+    "bilingual_desc": "With a single click, flip the entire template to support right-to-left languages like Arabic, opening up new markets for you.",
+    "responsive_title": "100% Responsive",
+    "responsive_desc": "A perfect design on all devices, from the largest desktop screens to the smallest mobile phones.",
+    "fast_title": "Fast & Optimized",
+    "fast_desc": "Built with the latest technologies (Next.js) to ensure the fastest possible loading performance, improving UX and SEO."
+  },
+  "how_it_works": {
+    "title": "Get Going in Three Simple Steps",
+    "subtitle": "We designed everything to be easy and straightforward. Get started in minutes, not days.",
+    "step1_title": "Choose Template",
+    "step1_desc": "Start by choosing the template that fits your brand and future vision.",
+    "step2_title": "Customize with Ease",
+    "step2_desc": "Modify text, colors, and images to match your unique identity with just a few clicks.",
+    "step3_title": "Launch Your Site",
+    "step3_desc": "Confidently publish your new website online and attract your first customers."
+  },
+  "testimonials": {
+    "title": "Trusted by Founders and Startups",
+    "subtitle": "Don't just take our word for it, see what our happy customers have to say about us.",
+    "items": [
+      {
+        "quote": "This template saved us weeks of development time. The professional design and bilingual support were exactly what we needed to launch our product in the MENA region.",
+        "name": "Ali Hassan",
+        "title": "CTO, TechSolutions"
+      },
+      {
+        "quote": "As a freelancer, I'm always looking for high-quality tools. The code is incredibly clean and well-organized, which made customization a breeze.",
+        "name": "Fatima Ghali",
+        "title": "Freelance Web Developer"
+      },
+      {
+        "quote": "The best feature is the ability to toggle between light and dark mode. It's a small, modern touch that shows the great attention to detail in this template.",
+        "name": "Khaled Amin",
+        "title": "Product Manager, Innovate Inc."
+      }
+    ]
+    },
+    "pricing": {
+  "title": "Choose the Plan That's Right for You",
+  "subtitle": "Clear and transparent pricing. Pay once and get the template for life. No hidden subscriptions.",
+  "period": "/ one time",
+  "button_text": "Get Started",
+  "plans": [
+    {
+      "name": "Basic Plan",
+      "desc": "Ideal for personal projects and freelancers.",
+      "price": "$19",
+      "features": [
+        "All essential sections",
+        "Source code files",
+        "Lifetime updates"
+      ]
+    },
+    {
+      "name": "Professional Plan",
+      "desc": "For startups aiming for rapid growth.",
+      "price": "$29",
+      "badge": "Most Popular",
+      "features": [
+        "All features of the Basic Plan",
+        "Bilingual (RTL) Support",
+        "Dark & Light Mode",
+        "Detailed Documentation"
+      ]
+    },
+    {
+      "name": "Enterprise Plan",
+      "desc": "Custom solutions for large teams.",
+      "price": "$49",
+      "features": [
+        "All features of the Pro Plan",
+        "Dedicated technical support",
+        "Ability to add custom features"
+      ]
+    }
+  ]
+},
+  
+  "faq": {
+    "title": "Have Questions? We Have Answers",
+    "subtitle": "Everything you might need to know before making your decision.",
+    "items": [
+      {
+        "question": "What do I get when I purchase the template?",
+        "answer": "You will receive the complete source code files for the project (Next.js + Tailwind CSS), along with clear documentation explaining how to modify and customize the template to fit your needs."
+      },
+      {
+        "question": "Do I need to pay a monthly or yearly subscription?",
+        "answer": "Not at all. It's a one-time payment, and you get the template with all future updates for life."
+      },
+      {
+        "question": "What technologies is this template built with?",
+        "answer": "The template is built with the latest technologies for the best performance: Next.js (a React framework) and Tailwind CSS for styling. It's ready to be deployed on platforms like Vercel or Netlify."
+      },
+      {
+        "question": "Can I use the template for commercial projects?",
+        "answer": "Absolutely. When you purchase the Pro or Enterprise plan, you can use the template to build sites for your clients or for your commercial business without any restrictions."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Launch Your Project to the World Today",
+    "subtitle": "Don't waste any more time coding from scratch. Get the professional template you need and start attracting customers now.",
+    "button": "Get The Template Now"
+  },
+  "footer": {
+    "tagline": "A professional template to help you launch your next project faster and better.",
+    "credit_prefix": "Made by",
+    "credit_link": "Digital Creation Studio",
+    "links_title": "Quick Links",
+    "legal_title": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact_title": "Contact Us",
+    "copyright": "All rights reserved."
+  }
+}
